@@ -1,1 +1,1 @@
-# full-stack
+# Learning Full Stack development
